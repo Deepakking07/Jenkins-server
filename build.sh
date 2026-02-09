@@ -13,3 +13,4 @@ mail -s "Jenkins Task-2 #$BUILD_NUMBER - SUCCESS" deepakkumark2001@gmail.com
 
 echo "✅ Email sent via shell command!"
 
+#Success
